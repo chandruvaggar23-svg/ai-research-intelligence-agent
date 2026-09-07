@@ -149,7 +149,7 @@ ai-research-intelligence-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-research-intelligence-agent.git
+git clone https://github.com/chandruvaggar23-svg/ai-research-intelligence-agent.git
 cd ai-research-intelligence-agent
 ```
 
